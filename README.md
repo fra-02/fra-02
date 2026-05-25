@@ -44,4 +44,4 @@ I miei progetti di riferimento focalizzati su diversi aspetti critici dell'ingeg
 
 ![Le mie statistiche GitHub](https://github-readme-streak-stats.herokuapp.com/?user=fra-02&theme=radical)
 
-![I miei linguaggi più usati](https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=fra-02&layout=compact&theme=radical)
+![I miei linguaggi più usati](https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=fra-02&layout=compact&theme=radical&hide=Jupyter%20Notebook)
