@@ -33,10 +33,10 @@ Sono un **Laureando Magistrale in Software Engineering** presso l'Università de
 
 I miei progetti di riferimento focalizzati su diversi aspetti critici dell'ingegneria del software e dell'intelligenza artificiale:
 
-* **GoEmotion DeBERTa (MLOps Focus)**: Pipeline di fine-tuning e serving del modello DeBERTa per l'analisi dei sentimenti e il riconoscimento delle emozioni su dataset GoEmotions. Implementazione del ciclo di vita MLOps con tracciamento degli esperimenti, versionamento dei dati e deployment containerizzato.
-* **Toy3 Compiler**: Progettazione e implementazione di un compilatore completo per il linguaggio Toy3 in Java (Lexer con JFlex, Parser bottom-up con JavaCup, AST e Visitor Pattern per scoping e type checking).
-* **Vaporant**: Un e-commerce Java focalizzato sulla *Software Dependability*, con verifica formale JML, testing JUnit/Mockito avanzato e pipeline DevSecOps automatizzate.
-* **SINTONIA**: Piattaforma di triage dinamico per la salute mentale pubblica, sviluppata in un team di 13 persone seguendo la metodologia Agile/Scrum nel ruolo di Co-PM.
+* **[GoEmotion DeBERTa](https://github.com/fra-02/goemotions-deberta.git) (MLOps Focus)**: Pipeline di fine-tuning e serving del modello DeBERTa per l'analisi dei sentimenti e il riconoscimento delle emozioni su dataset GoEmotions. Implementazione del ciclo di vita MLOps con tracciamento degli esperimenti, versionamento dei dati e deployment containerizzato.
+* **[Toy3 Compiler](https://github.com/fra-02/Toy3_Compiler.git)**: Progettazione e implementazione di un compilatore completo per il linguaggio Toy3 in Java (Lexer con JFlex, Parser bottom-up con JavaCup, AST e Visitor Pattern per scoping e type checking).
+* **[Vaporant](https://github.com/fra-02/VaporantSD.git)**: Un e-commerce Java focalizzato sulla *Software Dependability*, con verifica formale JML, testing JUnit/Mockito avanzato e pipeline DevSecOps automatizzate.
+* **[SINTONIA](https://github.com/fra-02/SINTONIA.git)**: Piattaforma di triage dinamico per la salute mentale pubblica, sviluppata in un team di 13 persone seguendo la metodologia Agile/Scrum nel ruolo di Co-PM.
 
 ---
 
