@@ -42,7 +42,6 @@ I miei progetti di riferimento focalizzati su diversi aspetti critici dell'ingeg
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=fra-02&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Le mie statistiche GitHub" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fra-02&layout=compact&theme=radical" alt="I miei linguaggi più usati" height="150">
-</p>
+![Le mie statistiche GitHub](https://github-readme-stats.vercel.app/api?username=fra-02&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+![I miei linguaggi più usati](https://github-readme-stats.vercel.app/api/top-langs/?username=fra-02&layout=compact&theme=radical)
